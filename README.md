@@ -2,7 +2,7 @@
 This is a Data Analysis project done as part of a Data Science Course.
 Analysis is done on the data set containing the House Sales in King County, USA, which includes Seattle. It includes homes sold between May 2014 and May 2015. 
 
-Link to the dataset : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/data/kc_house_data_NaN.csv  
+Download the entire dataset here : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/data/kc_house_data_NaN.csv  
 
 The project is done on Jupyter Notebook using Python.  
 The libraries used are :  
